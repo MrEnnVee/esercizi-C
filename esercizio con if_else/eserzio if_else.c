@@ -22,7 +22,7 @@ int main (void)
     scanf ("%d", &limite);
 
     //calcolo
-    saldo = saldo + spese - accrediti;
+    saldo = saldo - spese + accrediti;
 
     //stampa limite e saldo
     printf ("%s%d\n %s%d\n", "Limite: ", limite, "Saldo: ", saldo);

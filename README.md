@@ -2,10 +2,13 @@
 
 Questa repository contiene alcuni esercizi base in linguaggio C realizzati durante il mio percorso di studi in Informatica presso UniPegaso.
 
-## Contenuto
+### esercizio_if_else.c
+Programma che calcola il saldo mensile a partire da un saldo iniziale, spese e accrediti. Verifica se il saldo supera un limite imposto e stampa un messaggio.
 
--  esercizio if-else.c: esercizio molto elementare per familiarizzare con if & else
-- `esercizio print-scanf-operazioni elementari.c : piccolo esercizio per familiarizzare con la libreria #stdio con l'inserimento di qualche operzione elementare
+### operazioni_due_numeri.c
+Mini calcolatrice che legge due numeri interi e stampa la somma, sottrazione, moltiplicazione, divisione e resto.  
+Controlla che il secondo numero non sia zero prima di effettuare la divisione.
+
 
 ## Autore
 
