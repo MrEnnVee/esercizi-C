@@ -8,7 +8,8 @@ Programma che calcola il saldo mensile a partire da un saldo iniziale, spese e a
 ### operazioni_due_numeri.c
 Mini calcolatrice che legge due numeri interi e stampa la somma, sottrazione, moltiplicazione, divisione e resto.  
 Controlla che il secondo numero non sia zero prima di effettuare la divisione.
-tac
+
+
 
 ## Autore
 
